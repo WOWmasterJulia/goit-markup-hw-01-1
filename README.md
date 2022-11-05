@@ -1,2 +1,2 @@
 # goit-markup-hw-01-1-
-Web Stodio 
+Web Studio 
